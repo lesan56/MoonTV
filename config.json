@@ -3,4 +3,8 @@
   "api_site": "https://jszyapi.com/api.php/provide/vod",
   "name": "极速资源"  
 }
-
+"wujing": {
+  "cache_time": 7200,
+  "api_site": "https://api.wujinapi.me/api.php/provide/vod",
+  "name": "无尽资源"  
+}
